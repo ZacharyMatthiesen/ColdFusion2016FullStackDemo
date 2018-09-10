@@ -1,0 +1,33 @@
+Exercise 1.4
+ 
+Objective: To become familiar with SQL.
+ 
+ 
+Requirements
+ 
+1.       Give a brief overview of four SQL commands.
+2.       Discuss the Join clause.
+3.       Discuss the importance of cfqueryparam.
+ 
+Implementation
+ 
+This was a research based project to produce a reference material.
+ 
+ --------------------------------------------------------------------
+
+ Requirement 1:
+
+    Four important SQL commands 
+        Select
+        Update
+        Delete
+        Insert Into
+
+ Requirement 2:
+    
+    The Join clause
+
+ Requirement 3:
+ 
+    Parameterized queries prevent SQL injection, so using cfqueryparam is highly important 
+    to prevent your database from being hacked.

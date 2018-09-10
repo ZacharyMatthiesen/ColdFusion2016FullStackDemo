@@ -1,0 +1,25 @@
+Exercise 6.1
+ 
+Objectives: To become familiar with the most commonly used ColdFusion tags at Mind
+       Over Data.
+ 
+ 
+Requirements
+ 
+1.       List the tags most used by the company.
+2.       Give a brief description of the tags use.
+3.       Show an example of the tag’s use.
+ 
+Implementation
+ 
+      This was a research based project to produce a reference material.
+ 
+
+ Requirement 1:
+    Tags the company most commonly uses: 
+
+ Requirement 2:
+    For each tag, how it is used generally: 
+
+ Requirement 3:
+    For each tag, a specific code example:
